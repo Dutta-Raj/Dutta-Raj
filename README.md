@@ -1,4 +1,4 @@
-## Hi  👋 Rajdeep Dutta,Pre-Final year student of Kiit University
+## Hi  👋 Rajdeep Dutta,Final year student of Kiit University
 
 <!--
 **Dutta-Raj/Dutta-Raj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
