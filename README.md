@@ -27,6 +27,6 @@ Python · Java · Spring Boot · MERN · Flask · Django · TensorFlow · RAG ·
 
 ### 📫 Connect
 
- ![LinkedIn(https://img.shields.io/badge/LinkedIn-rajdeep--dutta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rajdeep--dutta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajdeep-dutta-38969524b)
 [![Gmail](https://img.shields.io/badge/Gmail-rajdeepdutta104@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajdeepdutta104@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Dutta--Raj-181717?style=for-the-badge&logo=github&logoColor=white)]
+[![GitHub](https://img.shields.io/badge/GitHub-Dutta--Raj-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dutta-Raj)
