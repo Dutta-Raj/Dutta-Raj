@@ -21,7 +21,7 @@
 | **Student Engage** (AI FinTech) | Spring Boot 3.3, RAG, GPT-4o-mini, Docker | RAG pipeline + 8 REST APIs + containerized + live demo |
 | **AI Tutor Screener** (Cuemath Challenge) | Next.js 14, Groq (Llama 3), Voice AI, Vercel | Voice-based screening + live demo |
 | **Support Triage AI Agent** (Hackathon) | Python, Gemini 1.5, Agentic AI | Team of 3 · 62% auto-resolution on 29 tickets |
-| **Healthbot** (AI Chatbot) | Fast API, MongoDB, Cohere AI, Kafka, CI/CD | Event-driven queuing + automated deployments + live demo |
+| **Healthbot** (AI Chatbot) | Fast API, MongoDB ,RAG,Cohere AI, Kafka, CI/CD | Event-driven queuing + automated deployments + live demo |
 
 ---
 
